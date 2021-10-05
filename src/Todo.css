@@ -1,0 +1,20 @@
+.Todo {
+    
+}
+
+.todo__delete {
+    color: red;
+    padding-left: 2px;
+
+}
+
+:hover.todo__delete {
+    color: darkred;
+}
+
+.todo__buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
